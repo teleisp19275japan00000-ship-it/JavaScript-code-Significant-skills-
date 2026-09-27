@@ -1,0 +1,6 @@
+username=alice
+theme=dark
+role=user
+project=demo
+email=alice@example.test
+EOF
